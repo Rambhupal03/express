@@ -5,7 +5,6 @@
 **This project has a [Code of Conduct][].**
 
 ## Table of contents
-## apna college
 
 * [Installation](#Installation)
 * [Features](#Features)
